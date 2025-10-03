@@ -1,3 +1,5 @@
+// Reset CSS
+import "@/css/reset.scss";
 // ZaUI stylesheet
 import "zmp-ui/zaui.css";
 // Tailwind stylesheet
